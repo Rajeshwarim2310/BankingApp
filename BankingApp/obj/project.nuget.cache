@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e92rRy+c63hDFVdlQzfYq3RLfBQwvpTFXaOKz2oSWR1wSTPcNXWeSkv1XE2c0QnUIyLbm1SOJX6rJhtMK1wEzQ==",
+  "dgSpecHash": "Dv97cRuOiqN+QiinGUDTu1ZJLZcfoOLpMNKBef48/LZc6FTFgkWznAAUOqsIubaCmFsXf18SOm4lXXyatxWyFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Project\\BankingApp\\BankingApp\\BankingApp.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\BankingApp\\BankingApp\\BankingApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
